@@ -1,5 +1,5 @@
 # SQL
-## SQL Notes
+## Notes
 - SQL query does not return records with NULL values.
 - length() --> gives byte length 
 - char_length() --> gives the length of the characters
